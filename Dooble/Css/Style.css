@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+#main{
+	background-color:#FFF;
+	height:760px;
+	width:100%;
+	border:1px solid white;
+}
+
+#cntr{
+	display:block;
+		
+}
+#txt{
+
+	margin-top:12%;
+	margin-left:40%;
+}
+
+font{
+	font-size:750%;	
+}
+
+#txtb{
+	margin-left:30%;
+	width:43%;
+	height:25px;
+	font-size:18px;	
+}
+
+#but{
+	margin-left:47%;
+	width:10%;
+	height:30px;	
+}
