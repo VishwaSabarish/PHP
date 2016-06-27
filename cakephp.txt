@@ -1,0 +1,28 @@
+First part in the series of learning CakePHP 3.0. We will be following the official CakePHP bookmarker tutorial.
+
+As promised, here are the scripts to run along with a small guide:
+1. Navigate to the directory you want the project to be installed to, using the terminal / console.
+
+2. Run this: php -r "readfile('https://getcomposer.org/installer');" | php
+
+3. Now you should have Composer.phar in the directory.
+
+4. Run this: php composer.phar create-project --prefer-dist cakephp/app bookmarker
+
+5. Now cake should be installed and you have lots of directories.
+
+6. Go into the "bookmarker" applications, and verify you stand in the same directory as the "bin" folder, along with all the other folders cake installed for you.
+
+7. Run: bin/cake server
+
+8. Go to the localhost link provided by the console output, and verify your installation.
+------------------------------------------------------------------
+
+Thanks so much for watching! Please comment, like or subscribe in order to support me. Also, please consider donating here:
+
+http://jbjcode.com/donations/
+
+Donations are whats keeping me going, as the financial aid helps justify the amount of time spent + to buy new equipment for recording and editing.
+
+Thank you!
+/J.B.J.
