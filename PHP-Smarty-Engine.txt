@@ -1,0 +1,17 @@
+PHP Smarty Engine Installer
+===============================
+
+https://www.youtube.com/results?search_query=connect+mongodb+in+php
+
+https://www.youtube.com/results?search_query=php+smarty+template+engine+tutorial
+
+https://www.youtube.com/watch?v=ITLx5lNMS-U&list=PLyyyPrkn6lFcnUIuNwkBAn-rzUtIyIGe1
+
+https://www.youtube.com/watch?v=9gEPiIoAHo8&list=PLC3y8-rFHvwiXX1maB5o-CZAIHy4I_ILv
+
+MongoDB Tutorial
+=====================
+
+https://www.youtube.com/watch?v=ulRY_SePdEs&index=2&list=PLYxzS__5yYQk5r6iN4Q7h-xonV3F2HwT3
+
+https://www.youtube.com/watch?v=ifOtpeh-U_0&index=4&list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO
